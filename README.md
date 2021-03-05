@@ -7,6 +7,15 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junhg0211&show_icons=true)
 
+- 🔭 I’m currently working on Shtelo
+- 🌱 I’m currently learning Android, Unity, Blender, English, etc.
+- 👯 I’m looking to collaborate on nothing.
+- 🤔 I’m looking for help with university.
+- 💬 Ask me about something.
+- 📫 How to reach me: junhg0211@gmail.com, @YtScratch, スチー#9811
+- 😄 Pronouns: he/his/him
+- ⚡ Fun fact: I'm Korean
+
 <!--
 **junhg0211/junhg0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
