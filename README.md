@@ -2,7 +2,7 @@
 
 [![Shtelo](http://img.shields.io/badge/스치-Shtelo-fdde59)](https://www.shtelo.org/)
 [![Twitter](https://img.shields.io/badge/%40YtScratch-Twitter-1DA1F2)](https://twitter.com/YtScratch)
-![Discord](https://img.shields.io/badge/스치%239811-Discord-7289DA)
+![Discord](https://img.shields.io/badge/スチー%239811-Discord-7289DA)
 [![Email](https://img.shields.io/badge/juhng0211-%40gmail.com-de5246)](mailto://junhg0211@gmail.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junhg0211&show_icons=true)
